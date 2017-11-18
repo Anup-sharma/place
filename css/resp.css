@@ -1,0 +1,13 @@
+@media screen and (max-width: 550px) {
+  .override{
+    display: none;
+  }
+
+}
+
+@media screen and (max-height: 400px) {
+  .override{
+    display: none;
+  }
+
+}
